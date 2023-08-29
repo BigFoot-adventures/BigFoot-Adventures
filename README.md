@@ -1,16 +1,38 @@
-### Hi there 👋
+# 🚀 Welcome to Brendon's GitHub Profile! 🌟
 
-<!--
-**BigFoot-adventures/BigFoot-Adventures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! Welcome to my GitHub profile. Feel free to explore, contribute, and have a great time. 😄
 
-Here are some ideas to get you started:
+## 📊 Profile Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigFoot-adventures&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigFoot-adventures&layout=compact&theme=radical)](https://github.com/BigFoot-adventures)
+
+## 🛠️ Technologies and Tools
+
+Here are some of the technologies and tools I love working with:
+
+- 💻 Express(https://expressjs.com): <!--Description of tech 1.-->
+- 🌐 Angular(https://angular.io): <!-- Description of tech 2.-->
+- ⚙️ TailwindCSS(https://example.com): <!--Description of tool 1.-->
+- 📚 [Tool 2](https://tailwindcss.com): <!--Description of tool 2.-->
+
+## 🌱 Currently Learning
+
+I'm always on a journey of learning and self-improvement. Currently, I'm diving into:
+
+- 🚀 React(https://react.dev): <!--Learning about topic 1.-->
+- 🎯 [Topic 2](https://example.com): Exploring topic 2 in depth.
+
+## 🤝 Let's Connect
+
+Feel free to connect with me on these platforms:
+
+- LinkedIn(https://linkedin.com/in/brendon-jensen)
+- [Portfolio Website](https://your-username.dev)
+
+## 🎉 Thanks for Visiting
+
+Thanks for stopping by and taking a look at my GitHub profile. Have a fantastic day and happy coding!
+
+_"Stay committed, stay curious."_ 🌈
