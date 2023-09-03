@@ -36,9 +36,7 @@ I'm always on a journey of learning and self-improvement. Currently, I'm diving 
 
 ### 🤝 Let's Connect
 
-Feel free to connect with me on LinkedIn:
-
-- [LinkedIn](https://linkedin.com/in/brendon-jensen)
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/brendon-jensen)
 
 ### 🎉 Thanks for Visiting
 
