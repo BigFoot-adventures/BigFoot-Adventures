@@ -10,17 +10,17 @@ I am currently finishing my degree in information science by working on a capsto
 
 Some of the technologies and tools I love working with:
 
-- 📱 [Angular](https://angular.io): <!-- Description -->
-- 💻 [Express](https://expressjs.com): <!-- Description -->
-- 📚 [Node.js](https://nodejs.org/en): <!-- Description -->
-- 🎨 [TailwindCSS](https://tailwindcss.com): <!-- Description -->
+- 📱 [Angular](https://angular.io) <!-- Description -->
+- 💻 [Express](https://expressjs.com) <!-- Description -->
+- 📚 [Node.js](https://nodejs.org/en) <!-- Description -->
+- 🎨 [TailwindCSS](https://tailwindcss.com) <!-- Description -->
 
 ## 🌱 Currently Learning
 
 I'm always on a journey of learning and self-improvement. Currently, I'm diving into:
 
-- [React](https://react.dev): <!-- Learning about topic 1 -->
-- [PostgreSQL](https://postgresql.org): <!-- Exploring topic 2 in depth -->
+- [React](https://react.dev) <!-- Learning about topic 1 -->
+- [PostgreSQL](https://postgresql.org) <!-- Exploring topic 2 in depth -->
 
 ## Passions and Focus Areas
 - Education
