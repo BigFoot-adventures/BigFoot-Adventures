@@ -30,10 +30,9 @@ I'm always on a journey of learning and self-improvement. Currently, I'm diving 
 
 ## 📊 Some Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigFoot-adventures&show_icons=true&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigFoot-adventures&show_icons=true&theme=radical)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigFoot-adventures&layout=compact&theme=radical)(https://github.com/BigFoot-adventures)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigFoot-adventures&layout=compact&theme=radical)
 ### 🤝 Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/brendon-jensen)
